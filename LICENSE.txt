@@ -1,0 +1,4 @@
+Portfolio project by Fatima Ansari.
+
+This repository is intended for portfolio/learning demonstration.
+Do not redistribute any underlying dataset unless its license permits redistribution.
