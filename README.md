@@ -74,7 +74,7 @@ This page provides a high-level view of sales performance.
 
 **Purpose:** Quickly understand the overall sales picture and identify major contributors.
 
-![Key Insights](images/key-insights.png)
+<img width="449" height="255" alt="Key Insights" src="https://github.com/user-attachments/assets/c64b706f-db1f-497b-a8b9-ff824767149b" />
 
 ---
 
@@ -96,7 +96,7 @@ This page focuses on profitability and contribution analysis.
 
 **Purpose:** Understand where revenue and profit are being generated and compare market-level performance.
 
-![Profit Analysis](images/profit-analysis.png)
+<img width="446" height="253" alt="Profit Analysis" src="https://github.com/user-attachments/assets/c8eb8b53-b408-4bf5-b16e-b1834dc9b142" />
 
 ---
 
@@ -118,7 +118,8 @@ This page focuses on performance trends and comparative analysis.
 
 **Purpose:** Analyze performance trends and identify opportunities for improvement.
 
-![Performance Insights](images/performance-insights.png)
+<img width="448" height="254" alt="Performance Insights" src="https://github.com/user-attachments/assets/29700244-f7ed-4735-a613-79c1d3491cf4" />
+
 
 ---
 
